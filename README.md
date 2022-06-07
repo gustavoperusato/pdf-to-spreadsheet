@@ -18,4 +18,6 @@ This repository have the goal of help you to colect data from tables in PDF file
 
 <li>Step 3: Copy the files in this repository, modifying the "pdf_read_n_send.py" with your relative infos (follow the commented lines)</li>
 <ol></ol>
-<li>Step 4: Run "pdf_read_n_send.py"</li>
+<li>Step 4: Get your credentials file you downloaded from the google cloud project, rename it to "credentials.json" and copy to the folder you are working on</li>
+<ol></ol>
+<li>Step 5: Run "pdf_read_n_send.py"</li>
