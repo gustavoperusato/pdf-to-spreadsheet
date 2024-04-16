@@ -14,7 +14,7 @@ This repository have the goal of help you to colect data from tables in PDF file
 
 <li> Step 2: Instal the camelot library running this command:
 
-<code> pip install camelot </code>
+<code> pip install camelot-py </code>
 
 <li>Step 3: Copy the files in this repository, modifying the "pdf_read_n_send.py" with your relative infos (follow the commented lines)</li>
 <ol></ol>
